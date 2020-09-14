@@ -1,0 +1,13 @@
+Length of set: 8
+Target Value: 28
+In the set: [3, 5, 3, 9, 18, 4, 5, 6]
+
+
+BFI_Subset
+List of elements = {4, 18, 3, 3}, sum of values = 28
+Number of Operations: 81
+
+
+HS_Subset
+List of elements = {6, 4, 18}, sum of values = 28
+Number of Operations: 31

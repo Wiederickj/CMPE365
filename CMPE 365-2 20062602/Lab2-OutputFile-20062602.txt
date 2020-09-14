@@ -1,0 +1,12 @@
+ RESTART: C:\Users\16134\Desktop\CMPE 365-1 20062602\Lab2-assignment-20062602.py 
+File: 2019_Lab_2_flights_real_data.txt , 200 Airports have been found
+
+
+Starting and ending locations can be changed in the start and end variables
+Optimal route from 2 to 26:
+
+
+Fly from 2 at 2, to 119 arriving at 4
+Fly from 119 at 9, to 85 arriving at 10
+Fly from 85 at 18, to 26 arriving at 19
+>>> 
